@@ -1,0 +1,10 @@
+Toy{id=7, name='Jon', frequency=5}
+Toy{id=5, name='Jack', frequency=10}
+Toy{id=3, name='Tom', frequency=15}
+Toy{id=3, name='Vasya', frequency=15}
+Toy{id=1, name='Petr', frequency=20}
+Toy{id=12, name='Andryu', frequency=20}
+Toy{id=4, name='Ron', frequency=25}
+Toy{id=6, name='Don', frequency=30}
+Toy{id=2, name='Ivan', frequency=35}
+Toy{id=8, name='Bob', frequency=40}
